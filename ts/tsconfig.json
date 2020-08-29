@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "umd",
+        "strict": true
+    },
+    "include": [
+        "./**/*"
+    ],
+    "exclude": [
+        "./node_modules"
+    ]
+}
